@@ -10,6 +10,6 @@
 ##### 1. A brief description of what you should expect to happen and what it will do for you
 ##### 2. There are two categories of buttons. One will walk you through the results of the module (in blue, which collorlate with the tab colors), and the other will walk you through the challenge results (in red, which collorate with the tab colors).
 ##### 3. Once you are done, there is a button in the upper right hand corner. Clicking it will save and close the program for you.
-#### https://github.com/raineytracyn/stock-analysis/blob/main/Resources/Navigation%20Page.png
+#### ![Navigation Page] (https://github.com/raineytracyn/stock-analysis/blob/main/Resources/Navigation%20Page.png)
 ### Now that we have gone over how to use the program, go ahead and give it a try!
 #### https://github.com/raineytracyn/stock-analysis/blob/main/VBA_Challenge.vbs.xlsm
