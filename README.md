@@ -23,8 +23,17 @@
 #### ![Initial build](https://github.com/raineytracyn/stock-analysis/blob/main/Resources/RunTime%20during%20Module%20for%202018.png)
 #### Take a look at the same results, but with refactored code:
 #### ![Refactored build](https://github.com/raineytracyn/stock-analysis/blob/main/Resources/RunTime%20during%20Challenge%20for%202018.png)
-
-### Now that we have gone over how to use the program, go ahead and give it a try!
+---
+### You can see there was a transformative difference in run time. While this doesn't add up to much after one or two runs, it will add up to days, hours, and weeks after using the program for a few years.
+---
+## Results of running the program
+### Doing a side by side comparison of 2017 and 2018 without knowing what specific economic changes occurred, we can see come drastic changes!
+#### To ensure we are defining vocabulary the same way; when you see volume, we are looking at how many shares have been traded. Looking at the return, we are using the beginning of the year as a baseline, and seeing where the stock closed at on last weekday (non-holiday) of the year.
+#####
+#### ![Stock Anaylsis Results](https://github.com/raineytracyn/stock-analysis/blob/main/Resources/Daily%20Value%20and%20Return%20Comparison.png)
+---
+---
+## Now that we have gone over how to use the program, go ahead and give it a try! You can also find the Resources File below!
 #### [VBA Challenge](https://github.com/raineytracyn/stock-analysis/blob/main/VBA_Challenge.vbs.xlsm)
 ####
 #### [Resources Folder](https://github.com/raineytracyn/stock-analysis/tree/main/Resources)
