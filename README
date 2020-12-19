@@ -1,6 +1,8 @@
-Merge branch 'master' of github.com:raineytracyn/stock-analysis into main
-# Please enter a commit message to explain why this merge is necessary,
-# especially if it merges an updated upstream into a topic branch.
-#
-# Lines starting with '#' will be ignored, and an empty message aborts
-# the commit.
+# Stock Analysis Program
+##### Using Code to find trends and results, effiecently and faster
+---
+###### Purpose: This document will provide you a preview of how to use the program, and what the program will tel you. 
+---
+## User Interface
+### Before you open this workbook, ensure Excel Trust Center is set to accept and will run workbooks with code. Once complete, go ahead and open the workbook!
+#### 
