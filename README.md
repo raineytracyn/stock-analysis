@@ -29,10 +29,11 @@
 ## Results of running the program
 ### Doing a side by side comparison of 2017 and 2018 without knowing what specific economic changes occurred, we can see come drastic changes!
 #### To ensure we are defining vocabulary the same way; when you see volume, we are looking at how many shares have been traded. Looking at the return, we are using the beginning of the year as a baseline, and seeing where the stock closed at on last weekday (non-holiday) of the year.
-#####
+##### As you can see there are a variety of situations going on. Some companys saw in increase in trades, wtih a decline in return, while others saw a reduction in trades and decline in return. ENPH is a an interesting situation because it showed a substantial return both years, plus a significent increase in trades. I suspect this company may have an interest in splitting stocks to level out trades and stock value, making it less volatile. DQ shows a significant increase in trades, and a very large drop in return. This could indicate that entities who held large amounts of shares sold it off before the decline hit. In 2017 you can see the majority held onto their shares, making a very good return.
 #### ![Stock Anaylsis Results](https://github.com/raineytracyn/stock-analysis/blob/main/Resources/Daily%20Value%20and%20Return%20Comparison.png)
 ---
 ---
+##### There is a lot more we can learn from analyzing the data provided. For now, lets dive into the workbook...
 ## Now that we have gone over how to use the program, go ahead and give it a try! You can also find the Resources File below!
 #### [VBA Challenge](https://github.com/raineytracyn/stock-analysis/blob/main/VBA_Challenge.vbs.xlsm)
 ####
