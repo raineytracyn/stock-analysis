@@ -11,6 +11,7 @@
 ##### 2. There are two categories of buttons. One will walk you through the results of the module (in blue, which collorlate with the tab colors), and the other will walk you through the challenge results (in red, which collorate with the tab colors).
 ##### 3. Once you are done, there is a button in the upper right hand corner. Clicking it will save and close the program for you.
 #### ![Navigation Page](https://github.com/raineytracyn/stock-analysis/blob/main/Resources/Navigation%20Page.png)
+########## Beautiful, right?
 ---
 ## Run Time
 ### You are a busy individual, and the last thing you want is a slow running program. We took the time to look over our code, ensuring it runs as smoothly and effeciently as possible. Below you can see how much faster the code ran once we refactored the code.
