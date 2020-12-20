@@ -35,6 +35,6 @@
 ---
 ##### There is a lot more we can learn from analyzing the data provided. For now, lets dive into the workbook...
 ## Now that we have gone over how to use the program, go ahead and give it a try! You can also find the Resources File below!
-#### [VBA Challenge](https://github.com/raineytracyn/stock-analysis/blob/main/VBA_Challenge.vbs.xlsm)
-####
-#### [Resources Folder](https://github.com/raineytracyn/stock-analysis/tree/main/Resources)
+---
+#### Open the workbook here: [VBA Challenge](https://github.com/raineytracyn/stock-analysis/blob/main/VBA_Challenge.vbs.xlsm)
+#### Open the resource folder here: [Resources Folder](https://github.com/raineytracyn/stock-analysis/tree/main/Resources)
